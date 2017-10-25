@@ -26,7 +26,7 @@ with open(path.join(here, 'README.rst'), encoding='utf-8') as f:
 
 setup(
     name='jaiminho',
-    version='1.2.0',
+    version='0.0.1',
     description='A sample Python project',
     long_description=long_description,
     url='https://github.com/pypa/sampleproject',
